@@ -6,10 +6,12 @@ This repo localizes objects in an image by the users request. Given an image and
 <div style="display: flex; justify-content: space-around;">
     <div style="flex: 1; text-align: center;">
         <p>text from user: "please fetch me the popcorn on the table</p>
+        <p>results:</p>
         <img src="https://github.com/Ibrahim-giti/Simple-open-vocabulary-object-detector/blob/main/table.png?raw=true" alt="popcorn" width="300"/>
     </div>
     <div style="flex: 1; text-align: center;">
         <p>text from user: "please tell the girl to go sleep"</p>
+        <p>results:</p>
         <img src="https://github.com/Ibrahim-giti/Simple-open-vocabulary-object-detector/blob/main/girl_localization.png?raw=true" alt="sleep" width="300"/>
     </div>
 </div>
